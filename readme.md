@@ -1,6 +1,6 @@
-#Ceci est un Titre
-##Ceci est sous titre
-###Ceci est sou sou ... Vous avez compris
+# Ceci est un Titre
+## Ceci est sous titre
+### Ceci est sou sou ... Vous avez compris
 
 Je peut mettre des textes **en gras**, 
 Ou en *italique* et pourquoi pas ***les deux***? C'est comme je veux
